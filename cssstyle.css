@@ -1,0 +1,119 @@
+body {
+  background-color: rgb(223, 222, 222);
+  font-family: Arial, Helvetica, sans-serif;
+  box-shadow: blue;
+}
+
+header {
+  margin: auto;
+  text-align: center;
+  width: 600px;
+  background-color: rgb(255, 255, 254);
+  border-radius: 5px;
+  box-shadow: 0px 0px 1px black;
+  padding: 30px;
+  margin-top: 20px;
+}
+
+header img {
+  max-width: 250px;
+}
+
+header li {
+  display: inline;
+  margin-right: 2%;
+  list-style: none;
+  font-size: 1em;
+}
+
+h1 {
+  font-size: 2.5em;
+  font-weight: bold;
+}
+
+section {
+  width: 600px;
+  text-align: center;
+  margin: auto;
+  background-color: rgb(255, 255, 254);
+  border-radius: 5px;
+  box-shadow: gray;
+  padding: 30px;
+  margin-top: 20px;
+}
+
+.Apie-mus {
+  text-align: left;
+}
+
+span.Mus {
+  font-weight: 900;
+}
+
+.Produktai {
+  width: 600px;
+  text-align: center;
+  margin: auto;
+  background-color: rgb(255, 255, 254);
+  border-radius: 5px;
+  box-shadow: gray;
+  padding: 30px;
+  margin-top: 20px;
+}
+
+h3 {
+  font-size: large;
+  font-weight: 700;
+}
+
+.Chicken {
+  font-weight: 700;
+}
+
+.Pienas {
+  font-size: large;
+  font-weight: 700;
+}
+
+span.Pienas {
+  font-weight: 700;
+}
+
+span.Euro {
+  font-weight: 900;
+}
+
+span.Varske {
+  font-weight: 700;
+}
+
+#kontaktai {
+  width: 600px;
+  margin: auto;
+  background-color: rgb(255, 255, 254);
+  border-radius: 5px;
+  box-shadow: gray;
+  padding: 30px;
+  margin-top: 20px;
+}
+
+section img {
+  width: 100%;
+  max-height: 400px;
+  object-fit: cover;
+}
+
+section ul {
+  text-align: left;
+}
+
+footer {
+  text-align: center;
+  color: #555;
+  padding: 15px;
+}
+
+header a {
+  text-decoration: none;
+  color: black;
+}
